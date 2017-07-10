@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jcisneros/AndroidStudioProjects/TaskFinisher/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/jcisneros/AndroidStudioProjects/TaskFinisher/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jcisneros/AndroidStudioProjects/TaskFinisher/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/jcisneros/AndroidStudioProjects/TaskFinisher/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
